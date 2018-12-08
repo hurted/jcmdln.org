@@ -1,2 +1,0 @@
-# jcmdln.org
-jcmdln.org
